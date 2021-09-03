@@ -9,6 +9,13 @@ body {
   width: 100%;
 }
 
+button {
+  border: 1px solid red;
+  color: red;
+  padding: 5px;
+  cursor: pointer;
+}
+
 .map-overlay {
   position: absolute;
   left: 0;
